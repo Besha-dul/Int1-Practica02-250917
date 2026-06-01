@@ -1,0 +1,3 @@
+# Acerca de mí...
+
+Soy un estudiantes de la carrera de **T.S.U en Desarrollo de Software Multiplatafroma**,  actualmente curso el **3er** cuatrimestre de la carrera, quiero aprender a ser un excelente programadora, ser mas millonarias y hackear la NASA.. 
