@@ -244,9 +244,17 @@ Segunda referencia a la nota 2[^second].
 
 ### 11. Abreviaciones 
 
+Este es un ejemplo de abreviatura HTML.
+
+Convierte "HTML", pero mantiene intactas entradas parciales como "xxxHTMLyyy" y demás.
+
+*[HTML]: Hyper Text Markup Language
+
 ### 12. Contenedores Personalizados 
 
-
+::: warnings
+*Aquí hay dragones*
+:::
 
 
 
